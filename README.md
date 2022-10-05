@@ -10,3 +10,7 @@ various features provided in the application, both the users will easily be able
 and use the application. For the safety of the users, features such as Payment details, etc have
 also been provided.
 
+Link to prototype : https://www.figma.com/proto/RJWmHZl1bpRsYmvYvOoBaZ/HCI_Project?node-id=387%3A8246&scaling=scale-down&starting-point-node-id=873%3A9613&show-proto-sidebar=1
+
+Prototype Video : https://www.youtube.com/watch?v=KHVeFrLCgTI
+
