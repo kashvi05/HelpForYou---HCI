@@ -1,6 +1,6 @@
-# MaidForYou---HCI
+# HelpForYou---HCI
 
-The Project focuses on building a user-friendly, easy to use platform using various principles
+The Project, previously known has MaidForYou, focuses on building a user-friendly, easy to use platform using various principles
 of Human Computer Interaction platform that allows users to book various services of the
 project. The application focuses on making the experience of the user minimalistic, packed
 with various new features and presenting them to the user. MaidForYou provides a platform
@@ -10,7 +10,7 @@ various features provided in the application, both the users will easily be able
 and use the application. For the safety of the users, features such as Payment details, etc have
 also been provided.
 
-Link to prototype : https://www.figma.com/proto/RJWmHZl1bpRsYmvYvOoBaZ/HCI_Project?node-id=387%3A8246&scaling=scale-down&starting-point-node-id=873%3A9613&show-proto-sidebar=1
+Case Study : https://www.behance.net/kashvi05/projects
 
 Prototype Video : https://www.youtube.com/watch?v=KHVeFrLCgTI
 
